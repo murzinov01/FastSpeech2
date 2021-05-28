@@ -4,7 +4,7 @@ path:
   corpus_path: "/content/drive/MyDrive/M_AILABS_Ru"
   lexicon_path: "/content/drive/MyDrive/russian_lexicon.txt"
   raw_path: "/content/drive/MyDrive/M_AILABS_Ru"
-  preprocessed_path: "/content/FastSpeech2/preprocessed_data/M_AILABS_Ru"
+  preprocessed_path: "/content/drive/MyDrive/preprocessed_data/M_AILABS_Ru"
 
 preprocessing:
   val_size: 512
