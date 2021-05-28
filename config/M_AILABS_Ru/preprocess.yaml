@@ -1,10 +1,10 @@
 dataset: "LJSpeech"
 
 path:
-  corpus_path: "../drive/MyDrive/M_AILABS_RU"
-  lexicon_path: "lexicon/russian-lexicon.txt"
-  raw_path: "../drive/MyDrive/M_AILABS_RU"
-  preprocessed_path: "./preprocessed_data/M_AILABS_RU"
+  corpus_path: "/content/drive/MyDrive/M_AILABS_Ru"
+  lexicon_path: "/content/drive/MyDrive/russian_lexicon.txt"
+  raw_path: "/content/drive/MyDrive/M_AILABS_Ru"
+  preprocessed_path: "/content/FastSpeech2/preprocessed_data/M_AILABS_Ru"
 
 preprocessing:
   val_size: 512

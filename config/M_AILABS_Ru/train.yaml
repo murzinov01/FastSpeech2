@@ -1,7 +1,7 @@
 path:
-  ckpt_path: "../drive/MyDrive/checkpoints/LJSpeech"
-  log_path: "../drive/MyDrive/logs/LJSpeech"
-  result_path: "../drive/MyDrive/results/LJSpeech"
+  ckpt_path: "/content/drive/MyDrive/checkpoints/M_AILABS_Ru"
+  log_path: "/content/drive/MyDrive/logs/M_AILABS_Ru"
+  result_path: "/content/drive/MyDrive/results/M_AILABS_Ru"
 optimizer:
   batch_size: 16
   betas: [0.9, 0.98]
