@@ -1,4 +1,4 @@
-dataset: "LJSpeech"
+dataset: "M_AILABS_Ru"
 
 path:
   corpus_path: "/content/drive/MyDrive/M_AILABS_Ru"
