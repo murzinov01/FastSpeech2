@@ -6,7 +6,7 @@ from preprocessor import ljspeech, aishell3, libritts, m_ailabs_ru
 
 
 def main(config):
-    if "LJSpeech" in config["dataset"]:
+    if "LJSpeech" or "M_AILABS_Ru" in config["dataset"]:
         ljspeech.prepare_align(config)
     if "M_AILABS_Ru" in config["dataset"]:
         m_ailabs_ru.prepare_align(config)
