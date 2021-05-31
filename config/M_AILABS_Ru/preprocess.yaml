@@ -1,7 +1,7 @@
 dataset: "M_AILABS_Ru"
 
 path:
-  corpus_path: "/content/drive/MyDrive/M_AILABS_Ru"
+  corpus_path: "/content/drive/MyDrive/MAIN_M_AILABS_Ru_"
   lexicon_path: "/content/drive/MyDrive/russian_lexicon.txt"
   raw_path: "/content/drive/MyDrive/M_AILABS_Ru"
   preprocessed_path: "/content/drive/MyDrive/my_preprocessed_data/M_AILABS_Ru"
